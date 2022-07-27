@@ -41,6 +41,7 @@ const renderPokemon = async (pokemon) => {
     pokemonName.innerHTML = 'Não Encontrado!';
   }
 
+  localStorage['lastPokemon'] = searchPokemon;
 }
 
 // Evento de envio do campo de pesquisa:
@@ -65,4 +66,10 @@ buttonNext.addEventListener('click', (e) => {
 });
 
 // Iniciando com um pokemon pré-selecionado:
-renderPokemon(searchPokemon);
+onload = () => {
+  if (localStorage['lastPokemon']) {
+    renderPokemon(localStorage['lastPokemon']);
+  } else {
+    renderPokemon('1');
+  }
+};
