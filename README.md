@@ -1,7 +1,7 @@
 A [PokéAPI](https://pokeapi.co/) é uma poderosa aplicação que contém diversos dados sobre os pokémons e que estão disponíveis para um fácil acesso.<br> Esse pequeno projeto tem como objetivo experimentar o consumo desta API. O projeto foi desenvolvido com HTML, CSS e JavaScript.
 
 
-![pokedex](https://raw.githubusercontent.com/Edssaac/pokedex/main/pokedex.png?token=GHSAT0AAAAAABJM5EC2UEQSTHHZSWQC546GYXASVVA)
+![pokedex](https://raw.githubusercontent.com/Edssaac/pokedex/main/source/images/demo/pokedex.png)
 
 <br>
 
