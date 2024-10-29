@@ -7,7 +7,7 @@
 Pokedex interativa que permite explorar todos os Pokémon registrados, além de buscar informações 
 detalhadas sobre qualquer Pokémon específico usando seu nome ou número de registro.
 
-![demo](https://raw.githubusercontent.com/Edssaac/pokedex/main/source/images/demo/pokedex.png)
+![demo](./source/images/demo/pokedex.png)
 
 **Objetivo:**
 
@@ -24,3 +24,4 @@ Consumir a [PokéAPI](https://pokeapi.co/) para criar uma Pokédex.
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edssaac)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edssaac@gmail.com)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:edssaac@outlook.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-black.svg?style=for-the-badge&logo=linkedin&color=informational)](https://www.linkedin.com/in/edssaac/)
